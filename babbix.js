@@ -1,4 +1,4 @@
-const MyUI = (() => {
+const Babbix = (() => {
   class Pos {
     constructor(x, y) {
       this.x = x;
