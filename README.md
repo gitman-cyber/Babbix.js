@@ -1,8 +1,8 @@
 Overview
-MyUI is a lightweight UI framework for creating and managing interactive components on a canvas. It supports draggable components, click events, and various customizable UI elements like buttons, text boxes, and sliders.
+Babbix is a lightweight UI framework for creating and managing interactive components on a canvas. It supports draggable components, click events, and various customizable UI elements like buttons, text boxes, and sliders.
 
 Getting Started
-To use the MyUI library, you need to create an HTML canvas element and initialize the Canvas class with it. Then, you can create and manipulate UI components by adding them to the canvas.
+To use this library, you need to create an HTML canvas element and initialize the Canvas class with it. Then, you can create and manipulate UI components by adding them to the canvas.
 
 Setup
 Include the Script: Ensure that you have included the MyUI script in your HTML file.
